@@ -4,7 +4,7 @@ import pygame # Impordib PyGame mooduli
 pygame.init() # Käivitab mooduli
 
 screen = pygame.display.set_mode((300, 300)) # Loon akna
-pygame.display.set_caption("Valgusfoor") # Akna pealkiri
+pygame.display.set_caption("Valgusfoor-Elis Poolak") # Akna pealkiri
 
 # Värvid, mida kasutan
 
